@@ -6,6 +6,9 @@ c:/utl/jnr-alpha-version-jenner-analytics-windows-binary-calling-python-using-ul
   
  Alpha version jenner analytics windows binary calling python using ultraedit proof of concept
  
+ Too long to pst, see github
+ https://github.com/rogerjdeangelis/jnr-alpha-version-jenner-analytics-windows-binary-calling-python-using-ultraedit-proof-of-concept
+ 
  Example: select mean age, height and weight from sashelp.class by sex 
   
  Very early version of windows binary jenner analytics
